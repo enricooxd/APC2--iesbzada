@@ -11,4 +11,7 @@ int main () {
     int deu_certo = scanf("%d", p);
   printf("*p (i - valor de i): %d\n" , *p);
   return 0; 
+
+  //* entra no endereço de i(entra no ponteiro)
+  //& entra no endereço de p
 }
