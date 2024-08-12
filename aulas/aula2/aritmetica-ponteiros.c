@@ -17,7 +17,19 @@ int main(void){
   char *pchar = (char *)&inteiro;
   printf("pchar = %ul, pchar+1: %ul, pchar+20: %ul\n", pchar, pchar+1, pchar+20); // + 1 byte
   printf("pchar = %ul, pchar-1: %ul, pchar-20: %ul\n", pchar, pchar-1, pchar-20); // - 1 byte
-      
+
+/*
+binario       decimal
+  000             0
+  001             1
+  010             2
+  011             3 
+  100             4
+  101             5
+  111             7
+  1000            8
+  1001            9
+*/
 
   return 0;
 }
