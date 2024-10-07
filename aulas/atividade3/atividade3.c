@@ -208,7 +208,7 @@ int main() {
       } 
     }
   }
-  // insira o seu código acima
+// insira o seu código acima
 
   // Exercício 5
   unsigned char *pchar6 = (unsigned char *)imagem5;
@@ -240,7 +240,7 @@ int main() {
       pixels3 [x * 10 + y].rgba[2] = 150;
       pixels3 [x * 10 + y].rgba[3] = 0;
       }
-      else {
+   9l9999   else {
         pixels3 = imagem6;
       }
     }
